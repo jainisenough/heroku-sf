@@ -1,0 +1,54 @@
+.header-sec .row .col-md-7 button {
+	font-size: 11px;
+	color: #fff;
+	background-color: #717171;
+    padding: 7px 30px;
+	border-radius: 0;
+	display: inline-block;
+	font-family: 'Open Sans', sans-serif;
+}
+
+button {
+  color: #222;
+  border: none;
+  background: transparent;
+}
+
+.main-table-sec .container .col-md-4 ul li button {
+    margin-left: 0 !important;
+    margin: 10px 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 15px;
+    display: inline-block;
+    color: #5e5e5e;
+    border-bottom: 1px dotted #5e5e5e;
+    margin-bottom: 7px;
+    width: 80%;
+    position: relative;
+}
+
+.main-table-sec .container .col-md-4 .col-md-6 ul li button {
+    margin-left: 15px !important;
+    position: relative;
+}
+
+ul.pl-3 > li:first-child {
+  margin-top: 1.5rem !important;
+}
+
+.main-table-sec .container .col-md-4 ul.pl-3 > li:last-child > button {
+  border-bottom: none;
+}
+
+button:hover {
+    color: #0056b3;
+}
+
+.hover-class {
+  background: aquamarine;
+}
+
+.media {
+  cursor: pointer;
+}
