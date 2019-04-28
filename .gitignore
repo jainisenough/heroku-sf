@@ -12,7 +12,7 @@
 # /build
 
 # source
-/src
+#/src
 #/public
 
 # misc
